@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/resturant/static/css/main.5eb3eaa4.css",
+    "main.js": "/resturant/static/js/main.58453a7f.js",
+    "static/js/453.c83afa9f.chunk.js": "/resturant/static/js/453.c83afa9f.chunk.js",
+    "static/media/hero-bg.jpg": "/resturant/static/media/hero-bg.ae88a0704b6edbb258b4.jpg",
+    "index.html": "/resturant/index.html",
+    "main.5eb3eaa4.css.map": "/resturant/static/css/main.5eb3eaa4.css.map",
+    "main.58453a7f.js.map": "/resturant/static/js/main.58453a7f.js.map",
+    "453.c83afa9f.chunk.js.map": "/resturant/static/js/453.c83afa9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eb3eaa4.css",
+    "static/js/main.58453a7f.js"
+  ]
+}
